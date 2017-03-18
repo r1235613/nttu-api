@@ -1,3 +1,8 @@
-# My Awesome API
+# API中心，唯一對外界面
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 用途：
+
+唯一對外窗口，所有的請求皆是由此回應
+
+
+
